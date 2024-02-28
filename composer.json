@@ -1,0 +1,9 @@
+{
+  "name": "localhost/altair-code-challenge",
+  "description": "Altair Code Challenge",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
